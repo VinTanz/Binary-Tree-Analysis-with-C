@@ -10,14 +10,6 @@ int main(int argc, char *argv[]) {
 	
 	puts("================ TUGAS BESAR ISD ================");
 	
-	puts("");
-	puts("Kelompok : ");
-	puts("1. Ivan Tjandra - 220711708");
-	puts("2. Richard Angelico Pudjohartono - 220711747");
-	puts("2. Dhiaz Juan Richard L - 220711695");
-	puts("4. Kevin Philips Tanamas - 220711789");
-	puts("");
-	
 	puts("1. Buatlah semua primitive Binary Tree yang diperlukan dan sesuaikan datanya dengan Buku.");
 	
 	puts("");
