@@ -8,7 +8,7 @@ int main(int argc, char *argv[]) {
 	binaryTree BT;
 	int i, komparasi;
 	
-	puts("================ TUGAS BESAR ISD ================");
+	puts("================ Binary Tree Analysis ================");
 	
 	puts("1. Buatlah semua primitive Binary Tree yang diperlukan dan sesuaikan datanya dengan Buku.");
 	
